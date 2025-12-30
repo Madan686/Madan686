@@ -29,11 +29,12 @@ Developing a comprehensive full-stack ride-sharing web application using Flask, 
 - User safety features including women-only bookings and an SOS alert system
 - Scalable backend and robust authentication
 
-### 🟢 Generative Adversarial Network (GAN) for Handwritten Digit Synthesis
-Developed a GAN in Python with PyTorch to generate realistic handwritten digits.
-- Implemented and trained Generator and Discriminator networks on the MNIST dataset
-- Demonstrated deep understanding of neural network architectures and training processes
-- Analyzed model performance and documented insights, showcasing a systematic approach to AI/ML problem-solving
+### 🟢 DIGIT-DL – HANDWRITTEN DIGIT RECOGNITION WEB APPLICATION
+Built an end-to-end MNIST digit recognition system with a CNN model served through a Flask backend. 
+- Implemented preprocessing for canvas drawings and uploaded images using OpenCV, enabling accurate real-time 
+predictions. 
+- Designed a lightweight HTML/CSS/JS frontend with instant inference results and smooth user interaction. 
+- Added complete model-training workflow, allowing the CNN to be retrained from scratch using custom datasets. 
 
 ### 🟢 E-Commerce Backend System
 Built a RESTful backend for an e-commerce platform with Java, Spring Boot, Spring Security, Hibernate, and MySQL.
