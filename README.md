@@ -66,7 +66,7 @@ Built a RESTful backend for an e-commerce platform with Java, Spring Boot, Sprin
 ## 🤝 Let's Connect
 
 - [GitHub](https://github.com/Madan686)
-- [LinkedIn](https://www.linkedin.com/in/madan-m-5783332b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/madan-m634)
 
 ---
 
